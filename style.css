@@ -5,6 +5,12 @@
     font-family: Arial, sans-serif;
 }
 
+.fle{
+    display: flex;
+    gap: 65rem;
+    font-size: 40px;
+}
+
 .container {
     display: flex;
     padding: 1rem;
